@@ -4,7 +4,8 @@
 # chmod 400 ~/db.conf.R
 #
 oracleJdbcDriver <- "oracle.jdbc.OracleDriver"
-oracleJdbcJarFile <- "~/rdb/lib/ojdbc14.jar"
+oracleJdbcJarFile <- "rdb/lib/ojdbc14.jar"
+
 
 # DBIORES1
 ORACLE_DATABASE_HOST <- 'mn4s31058'
