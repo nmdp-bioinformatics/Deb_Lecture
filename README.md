@@ -1,2 +1,2 @@
 # Deb_Lecture
-SQL code development lecture
+SQL code development lecture examples
